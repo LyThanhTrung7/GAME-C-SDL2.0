@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C\u002B\u002B_DEVELOPER\\GAME\\game1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7311FCF9-A174-41C3-B35A-C316B1919A71}|game1.vcxproj|E:\\C\u002B\u002B_DEVELOPER\\GAME\\game1\\game1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7311FCF9-A174-41C3-B35A-C316B1919A71}|game1.vcxproj|solutionrelative:game1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7311FCF9-A174-41C3-B35A-C316B1919A71}|game1.vcxproj|E:\\C\u002B\u002B_DEVELOPER\\GAME\\game1\\mainObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7311FCF9-A174-41C3-B35A-C316B1919A71}|game1.vcxproj|solutionrelative:mainObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7311FCF9-A174-41C3-B35A-C316B1919A71}|game1.vcxproj|E:\\C\u002B\u002B_DEVELOPER\\GAME\\game1\\map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7311FCF9-A174-41C3-B35A-C316B1919A71}|game1.vcxproj|solutionrelative:map.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7311FCF9-A174-41C3-B35A-C316B1919A71}|game1.vcxproj|E:\\C\u002B\u002B_DEVELOPER\\GAME\\game1\\ThreatsObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7311FCF9-A174-41C3-B35A-C316B1919A71}|game1.vcxproj|solutionrelative:ThreatsObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7311FCF9-A174-41C3-B35A-C316B1919A71}|game1.vcxproj|E:\\C\u002B\u002B_DEVELOPER\\GAME\\game1\\timer_game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7311FCF9-A174-41C3-B35A-C316B1919A71}|game1.vcxproj|solutionrelative:timer_game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7311FCF9-A174-41C3-B35A-C316B1919A71}|game1.vcxproj|E:\\C\u002B\u002B_DEVELOPER\\GAME\\game1\\ThreatsObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7311FCF9-A174-41C3-B35A-C316B1919A71}|game1.vcxproj|solutionrelative:ThreatsObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7311FCF9-A174-41C3-B35A-C316B1919A71}|game1.vcxproj|E:\\C\u002B\u002B_DEVELOPER\\GAME\\game1\\function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7311FCF9-A174-41C3-B35A-C316B1919A71}|game1.vcxproj|solutionrelative:function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7311FCF9-A174-41C3-B35A-C316B1919A71}|game1.vcxproj|E:\\C\u002B\u002B_DEVELOPER\\GAME\\game1\\baseObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7311FCF9-A174-41C3-B35A-C316B1919A71}|game1.vcxproj|solutionrelative:baseObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7311FCF9-A174-41C3-B35A-C316B1919A71}|game1.vcxproj|E:\\C\u002B\u002B_DEVELOPER\\GAME\\game1\\timer_game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7311FCF9-A174-41C3-B35A-C316B1919A71}|game1.vcxproj|solutionrelative:timer_game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7311FCF9-A174-41C3-B35A-C316B1919A71}|game1.vcxproj|E:\\C\u002B\u002B_DEVELOPER\\GAME\\game1\\map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7311FCF9-A174-41C3-B35A-C316B1919A71}|game1.vcxproj|solutionrelative:map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7311FCF9-A174-41C3-B35A-C316B1919A71}|game1.vcxproj|E:\\C\u002B\u002B_DEVELOPER\\GAME\\game1\\mainObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7311FCF9-A174-41C3-B35A-C316B1919A71}|game1.vcxproj|solutionrelative:mainObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7311FCF9-A174-41C3-B35A-C316B1919A71}|game1.vcxproj|E:\\C\u002B\u002B_DEVELOPER\\GAME\\game1\\baseObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7311FCF9-A174-41C3-B35A-C316B1919A71}|game1.vcxproj|solutionrelative:baseObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7311FCF9-A174-41C3-B35A-C316B1919A71}|game1.vcxproj|E:\\C\u002B\u002B_DEVELOPER\\GAME\\game1\\function.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7311FCF9-A174-41C3-B35A-C316B1919A71}|game1.vcxproj|solutionrelative:function.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "game1.cpp",
+              "DocumentMoniker": "E:\\C\u002B\u002B_DEVELOPER\\GAME\\game1\\game1.cpp",
+              "RelativeDocumentMoniker": "game1.cpp",
+              "ToolTip": "E:\\C\u002B\u002B_DEVELOPER\\GAME\\game1\\game1.cpp",
+              "RelativeToolTip": "game1.cpp",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAmwH8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-12T08:12:09.001Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ThreatsObject.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B_DEVELOPER\\GAME\\game1\\ThreatsObject.h",
+              "RelativeDocumentMoniker": "ThreatsObject.h",
+              "ToolTip": "E:\\C\u002B\u002B_DEVELOPER\\GAME\\game1\\ThreatsObject.h",
+              "RelativeToolTip": "ThreatsObject.h",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAGUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-26T09:28:15.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mainObject.cpp",
+              "DocumentMoniker": "E:\\C\u002B\u002B_DEVELOPER\\GAME\\game1\\mainObject.cpp",
+              "RelativeDocumentMoniker": "mainObject.cpp",
+              "ToolTip": "E:\\C\u002B\u002B_DEVELOPER\\GAME\\game1\\mainObject.cpp*",
+              "RelativeToolTip": "mainObject.cpp*",
+              "ViewState": "AQIAAEkBAAAAAAAAAAAAAK4BAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-26T08:56:53.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "function.cpp",
+              "DocumentMoniker": "E:\\C\u002B\u002B_DEVELOPER\\GAME\\game1\\function.cpp",
+              "RelativeDocumentMoniker": "function.cpp",
+              "ToolTip": "E:\\C\u002B\u002B_DEVELOPER\\GAME\\game1\\function.cpp",
+              "RelativeToolTip": "function.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-12T08:21:14.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThreatsObject.cpp",
+              "DocumentMoniker": "E:\\C\u002B\u002B_DEVELOPER\\GAME\\game1\\ThreatsObject.cpp",
+              "RelativeDocumentMoniker": "ThreatsObject.cpp",
+              "ToolTip": "E:\\C\u002B\u002B_DEVELOPER\\GAME\\game1\\ThreatsObject.cpp",
+              "RelativeToolTip": "ThreatsObject.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-19T09:05:38.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "map.cpp",
+              "DocumentMoniker": "E:\\C\u002B\u002B_DEVELOPER\\GAME\\game1\\map.cpp",
+              "RelativeDocumentMoniker": "map.cpp",
+              "ToolTip": "E:\\C\u002B\u002B_DEVELOPER\\GAME\\game1\\map.cpp",
+              "RelativeToolTip": "map.cpp",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAFIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-17T04:41:20.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "timer_game.cpp",
+              "DocumentMoniker": "E:\\C\u002B\u002B_DEVELOPER\\GAME\\game1\\timer_game.cpp",
+              "RelativeDocumentMoniker": "timer_game.cpp",
+              "ToolTip": "E:\\C\u002B\u002B_DEVELOPER\\GAME\\game1\\timer_game.cpp",
+              "RelativeToolTip": "timer_game.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-15T07:40:01.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "baseObject.cpp",
+              "DocumentMoniker": "E:\\C\u002B\u002B_DEVELOPER\\GAME\\game1\\baseObject.cpp",
+              "RelativeDocumentMoniker": "baseObject.cpp",
+              "ToolTip": "E:\\C\u002B\u002B_DEVELOPER\\GAME\\game1\\baseObject.cpp",
+              "RelativeToolTip": "baseObject.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-13T04:40:13.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "timer_game.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B_DEVELOPER\\GAME\\game1\\timer_game.h",
+              "RelativeDocumentMoniker": "timer_game.h",
+              "ToolTip": "E:\\C\u002B\u002B_DEVELOPER\\GAME\\game1\\timer_game.h",
+              "RelativeToolTip": "timer_game.h",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-23T14:51:18.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "map.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B_DEVELOPER\\GAME\\game1\\map.h",
+              "RelativeDocumentMoniker": "map.h",
+              "ToolTip": "E:\\C\u002B\u002B_DEVELOPER\\GAME\\game1\\map.h",
+              "RelativeToolTip": "map.h",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-26T09:28:05.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "mainObject.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B_DEVELOPER\\GAME\\game1\\mainObject.h",
+              "RelativeDocumentMoniker": "mainObject.h",
+              "ToolTip": "E:\\C\u002B\u002B_DEVELOPER\\GAME\\game1\\mainObject.h",
+              "RelativeToolTip": "mainObject.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-26T09:24:56.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "function.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B_DEVELOPER\\GAME\\game1\\function.h",
+              "RelativeDocumentMoniker": "function.h",
+              "ToolTip": "E:\\C\u002B\u002B_DEVELOPER\\GAME\\game1\\function.h",
+              "RelativeToolTip": "function.h",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-12T08:20:51.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "baseObject.h",
+              "DocumentMoniker": "E:\\C\u002B\u002B_DEVELOPER\\GAME\\game1\\baseObject.h",
+              "RelativeDocumentMoniker": "baseObject.h",
+              "ToolTip": "E:\\C\u002B\u002B_DEVELOPER\\GAME\\game1\\baseObject.h*",
+              "RelativeToolTip": "baseObject.h*",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-13T04:39:59.687Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

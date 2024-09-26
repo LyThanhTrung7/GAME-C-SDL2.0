@@ -1,0 +1,29 @@
+﻿  mainObject.cpp
+E:\C++_DEVELOPER\GAME\game1\function.h(34,16): warning C4091: 'typedef ': ignored on left of 'map' when no variable is declared
+E:\C++_DEVELOPER\GAME\game1\function.h(46,16): warning C4091: 'typedef ': ignored on left of 'input' when no variable is declared
+E:\C++_DEVELOPER\GAME\game1\ThreatsObject.h(60,12): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+E:\C++_DEVELOPER\GAME\game1\ThreatsObject.h(61,12): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+E:\C++_DEVELOPER\GAME\game1\mainObject.h(14,9): warning C4005: 'BLOOD': macro redefinition
+E:\C++_DEVELOPER\GAME\game1\mainObject.h(68,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\C++_DEVELOPER\GAME\game1\mainObject.h(69,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\C++_DEVELOPER\GAME\game1\mainObject.cpp(197,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\C++_DEVELOPER\GAME\game1\mainObject.cpp(198,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\C++_DEVELOPER\GAME\game1\mainObject.cpp(272,14): warning C4305: '+=': truncation from 'double' to 'float'
+E:\C++_DEVELOPER\GAME\game1\mainObject.cpp(308,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\C++_DEVELOPER\GAME\game1\mainObject.cpp(314,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\C++_DEVELOPER\GAME\game1\mainObject.cpp(331,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\C++_DEVELOPER\GAME\game1\mainObject.cpp(332,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\C++_DEVELOPER\GAME\game1\mainObject.cpp(334,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\C++_DEVELOPER\GAME\game1\mainObject.cpp(335,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\C++_DEVELOPER\GAME\game1\mainObject.cpp(348,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\C++_DEVELOPER\GAME\game1\mainObject.cpp(364,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\C++_DEVELOPER\GAME\game1\mainObject.cpp(374,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\C++_DEVELOPER\GAME\game1\mainObject.cpp(375,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\C++_DEVELOPER\GAME\game1\mainObject.cpp(377,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\C++_DEVELOPER\GAME\game1\mainObject.cpp(378,45): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\C++_DEVELOPER\GAME\game1\mainObject.cpp(393,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\C++_DEVELOPER\GAME\game1\mainObject.cpp(410,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\C++_DEVELOPER\GAME\game1\mainObject.cpp(419,81): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\C++_DEVELOPER\GAME\game1\mainObject.cpp(447,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\C++_DEVELOPER\GAME\game1\mainObject.cpp(447,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  game1.vcxproj -> E:\C++_DEVELOPER\GAME\game1\x64\Debug\game1.exe
